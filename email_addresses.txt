@@ -1,3 +1,3 @@
-Person1 person1@example.com
-Person2 person2@example.com
-Person3 person3@example.com
+PERSON1 person1@example.com
+PERSON2 person2@example.com
+PERSON3 person3@example.com
